@@ -1,7 +1,13 @@
 # Jigsaw-Ransomware
-Warning: This project is Education purpose only, I'm not Responsible for any damage or harm
+I lost my 2FA of my old account you guys can follow me here and give a star :)
+Happy Hacking :)
 
+# Warning: 
+This resources is for Education purpose only, I'm not Responsible for any damage or harm
 And above warning is just a joke :v
 
 
-Source Code of Jigsaw Ransomware Created in Vb.Net
+# Buy me a coffee
+If you guys like my work let me buy a cup of coffee.
+
+<a href="https://www.buymeacoffee.com/mohammadyahya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
